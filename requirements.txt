@@ -1,0 +1,14 @@
+streamlit
+cohere
+fpdf2
+python-dotenv
+whisper @ git+https://github.com/openai/whisper.git
+gTTS
+soundfile
+numpy
+streamlit-webrtc
+
+
+
+
+

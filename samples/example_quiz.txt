@@ -1,0 +1,22 @@
+
+---
+
+### ✅ 7. `samples/example_quiz.txt` (example)
+
+```txt
+Quiz: Photosynthesis (Beginner)
+
+1. What is photosynthesis?
+Answer: The process where plants convert light energy into chemical energy.
+
+2. Which pigment absorbs sunlight?
+Answer: Chlorophyll.
+
+3. What gas is taken in during photosynthesis?
+Answer: Carbon dioxide.
+
+4. What are the products of photosynthesis?
+Answer: Oxygen and glucose.
+
+5. In which organelle does it occur?
+Answer: Chloroplast.

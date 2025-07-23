@@ -21,3 +21,7 @@ This is a Streamlit app that generates educational content such as lesson summar
 ```bash
 git clone https://github.com/vinoliahmolemane/educational-content-generator.git
 cd educational-content-generator
+
+## Live Demo
+
+Try the live app here: [Educational Content Generator](https://vinoliahmolemane-educational-content-generator-app-fpfpnh.streamlit.app/)

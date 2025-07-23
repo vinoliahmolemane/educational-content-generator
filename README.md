@@ -2,6 +2,10 @@
 
 This is a Streamlit app that generates educational content such as lesson summaries, quiz questions, concept explanations, flashcards, and study tips based on a subject and learner level. It uses the Cohere AI API to create tailored study materials.
 
+## Live Demo
+
+Try the live app here: [Educational Content Generator](https://vinoliahmolemane-educational-content-generator-app-fpfpnh.streamlit.app/)
+
 ## Features
 
 - Choose content type: Lesson Summary, Quiz Questions, Concept Explanation, Flashcards, Study Tips
@@ -21,7 +25,3 @@ This is a Streamlit app that generates educational content such as lesson summar
 ```bash
 git clone https://github.com/vinoliahmolemane/educational-content-generator.git
 cd educational-content-generator
-
-## Live Demo
-
-Try the live app here: [Educational Content Generator](https://vinoliahmolemane-educational-content-generator-app-fpfpnh.streamlit.app/)

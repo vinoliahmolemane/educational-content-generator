@@ -19,5 +19,5 @@ This is a Streamlit app that generates educational content such as lesson summar
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/educational-content-generator.git
+git clone https://github.com/vinoliahmolemane/educational-content-generator.git
 cd educational-content-generator
